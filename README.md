@@ -36,3 +36,9 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 **Acknowledgments**
 Inspired by Netflix's design and user experience.
 Thanks to the open-source community for providing resources and libraries that made this project possible.
+
+## Netlify Deploy Link:
+url:silly-cucurucho-f982e9.netlify.app
+
+## Screenshot of Webpage:
+?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/af5f1def-8005-4a6f-9cbf-1cdc379a1bc7/deploy-status)](https://app.netlify.com/sites/silly-cucurucho-f982e9/deploys)
